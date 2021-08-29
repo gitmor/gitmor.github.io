@@ -1,1 +1,56 @@
 theme: jekyll-theme-cayman
+# Site settings
+title: Vijay Venkata
+# twitter_username:
+name: Vijay Venkata
+
+# Build settings
+markdown: kramdown
+
+#User specific content
+#Links in navbar
+primarylinks:
+ - title: Blog
+   url: https://www.linkedin.com/in/vijay-venkata/detail/recent-activity/posts/
+ - title: GitHub
+   url: https://github.com/gitmor
+ - title: LinkedIn
+   url: https://www.linkedin.com/in/vijay-venkata/
+
+#skills
+skills:
+ - AWS
+ - C/C++
+ - Python
+ - Terraform
+ - Java
+ - Technical Architecture
+
+#Work experience 
+roles:
+ - title: PRODUCT OWNER & PRINCIPAL CLOUD SOFTWARE ARCHITECT
+   start: 2018
+   end: Current
+   employer: TOYOTA MOTORS
+   description: Product Owner & Principal AWS Architect responsible for product strategy, AWS Cloud architecture, AWS
+  Cloud Security, scalable software architecture & implementation of Data Science & ML/AI software solutions
+   based on driving data obtained from embedded devices in automobiles.
+
+#Education 
+education:
+ - level: MBA
+   date: 2011
+   subject: Finance, Strategic Management & Accounting
+   school: University of Chicago, Booth School of Business
+
+#List of interesting Github repo/projects to include - optional
+github:
+ - gitmor/gitmor.github.io
+
+intro: |
+  I am an engineer with 15 years experience working in technology. I have primarily worked on the JVM, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
+  I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code (having worked across differing languages on the JVM, I recognise that good code is contextual).<br/><br/>
+  I have worked in large scale consultancy roles across Europe as well as a mix of startup experience (including one that was acquired) and I am currently the Chief Technology Officer at a legal-tech startup called <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
+
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
