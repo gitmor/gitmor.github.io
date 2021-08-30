@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resume
-permalink: /resume/
+title: Latest Resume
+permalink: /latest/
 ---
 
 My career history.
