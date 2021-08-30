@@ -6,7 +6,10 @@ permalink: /latest/
 
 My career history.
 
-[My Resume](https://gitmor.github.io/index-traditional.html){:target="_blank"}
+[My Resume](../index-traditional.html){:target="_blank"}
 
 
-[PDF Download](https://gitmor.github.io/Resume_Aug_24_2021_ABA_VijayVenkata.pdf){:target="_blank"}
+[PDF Download](../Resume_Aug_24_2021_ABA_VijayVenkata_github.pdf){:target="_blank"}
+
+
+[comment]: # ([Career Timeline](../career-timeline.html){:target="_blank"})
